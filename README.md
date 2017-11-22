@@ -1,1 +1,2 @@
-#Hello-World my first repository
+# Hello-World 
+I attend NashobaValleyTechnical Highschool.
